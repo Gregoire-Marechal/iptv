@@ -9,13 +9,11 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="Live",CNN US
-https://tvpass.org/live/CNN/sd
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr@SD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+ (1080p)
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
-#EXTINF:-1,BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://commons.wikimedia.org/wiki/Category:BBC_News_logos#/media/File:BBC_News_2022_(Alt,_boxed).svg" tvg-id="https://www.bbc.com/" group-title="News",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
